@@ -1,0 +1,17 @@
+QUIZ PERFORMANCE ANALYSIS REPORT
+==============================
+
+STUDENT PERSONA
+---------------
+Learning Style: Visual Learner
+
+STRENGTHS
+---------
+• Data Structures
+• Algorithms
+
+RECOMMENDATIONS
+---------------
+• Focus more on Database concepts
+• Practice timed exercises
+• Review fundamentals of System Design
